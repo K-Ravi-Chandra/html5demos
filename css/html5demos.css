@@ -2,7 +2,11 @@ body {
   font: normal 16px/20px "Helvetica Neue", Helvetica, sans-serif;
   background: rgb(237, 237, 236);
   margin: 0;
+<<<<<<< HEAD
   padding: 0px;
+=======
+  padding: 5px;
+>>>>>>> BugFix01
 }
 
 section, header, footer {
